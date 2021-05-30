@@ -14,13 +14,13 @@ function clues() {
     textSize(15);
     text("C U T N I F O N", 700,150);
     fill("lightblue");
-    text("Hint: Always changing, not constant !!", 700,170);
+    text("Hint: Package that delivers when you call !!", 700,170);
 
     fill("white");
     textSize(15);
     text("A T A D A S B A", 100,250);
     fill("lightblue");
-    text("Hint: Always changing, not constant !!", 100,270);
+    text("Hint: Something which tastes like CURD!!", 100,270);
 // add code for displaying rest of the names and the hints.
     
 
